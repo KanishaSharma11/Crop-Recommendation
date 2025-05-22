@@ -2,7 +2,7 @@
 
 This project is a machine learning-based **Crop Recommendation System** designed to suggest the most suitable crop to cultivate based on various environmental and soil parameters.
 
-## **📊 Dataset
+## 📊 Dataset
 
 - **Shape:** (2200, 9)
 - **Features:**
@@ -15,7 +15,7 @@ This project is a machine learning-based **Crop Recommendation System** designed
   - `rainfall`: Rainfall in mm
   - `label`: Target label indicating the crop name
 
-## **🤖 Models Used
+## 🤖 Models Used
 
 Three classification models were trained and evaluated on the dataset:
 
@@ -31,7 +31,7 @@ Three classification models were trained and evaluated on the dataset:
    - **Accuracy:** `97.05%`
    - Distance-based model that performs well with properly scaled data.
 
-## **✅ Results
+## ✅ Results
 
 | Model                   | Accuracy       |
 |------------------------|----------------|
@@ -41,7 +41,7 @@ Three classification models were trained and evaluated on the dataset:
 
 The **Random Forest Classifier** delivered the highest performance and is recommended as the final model for deployment.
 
-## **📌 Requirements
+## 📌 Requirements
 
 - Python 3.x
 - pandas
