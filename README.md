@@ -42,8 +42,8 @@ Three classification models were trained and evaluated on the dataset:
 The **Random Forest Classifier** delivered the highest performance and is recommended as the final model for deployment.
 
 ## 💻 Demo
-![App Screenshot](images/image 1.png)
-![App Screenshot](images/image 2.png)
+![App Screenshot](images/image1.png)
+![App Screenshot](images/image2.png)
 
 ## 📌 Requirements
 
