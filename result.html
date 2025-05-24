@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Result</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h2>Recommended Crop:</h2>
+    <p class="result">{{ crop }}</p>
+    <a href="/">Try Again</a>
+  </div>
+</body>
+</html>
